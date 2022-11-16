@@ -8,6 +8,6 @@ namespace EMConsole.Abstract
 {
     public abstract class Abstract_class
     {
-
+        int id { get; set; }
     }
 }
