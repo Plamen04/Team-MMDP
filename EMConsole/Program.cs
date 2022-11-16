@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
         }
+        public void mustafa()
+        {
+
+        }
     }
 }

@@ -6,3 +6,6 @@
 /EMDataAccess/obj
 /EMConsole/.vs
 /EMDataAccess/.vs
+/.vs/EmployeeManager/FileContentIndex/b473208f-bf2c-4ca9-b5c6-de9f8c1b7556.vsidx
+*.lock
+*.suo
